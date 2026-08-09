@@ -1,4 +1,4 @@
 title: Auxolotl's Space
 description: Kenyon Tobler's personal blog and musings
 author: Kenyon Tobler
-theme: moonwalk
+remote_theme: b2a3e8/jekyll-theme-console
